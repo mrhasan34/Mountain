@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mountain</string>
+        
+    <string name="facebook_app_id">515006436979636</string>
+    <string name="fb_login_protocol_scheme">fb515006436979636</string>
+    <string name="facebook_client_token">baa3239f0fbe9bdf35da40b79ae28442</string>
+
+
+</resources>
